@@ -197,9 +197,9 @@ function JsonViewerApp() {
             Share
           </Button>
           {/* GitHub Link */}
-          <Button variant="outline" onClick={() => window.open("https://github.com/your-repo", "_blank")}>
+          {/* <Button variant="outline" onClick={() => window.open("https://github.com/your-repo", "_blank")}>
             GitHub
-          </Button>
+          </Button> */}
         </div>
       </header>
 

@@ -74,6 +74,11 @@ export const metadata: Metadata = {
   alternates: {
     canonical: APP_URL,
   },
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/icon-192x192.png",
+  },
 };
 
 export const viewport: Viewport = {
